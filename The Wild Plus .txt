@@ -1,0 +1,24 @@
+Reporting Guidelines
+Welcome to the Reporting Section! Here you'll be able to submit suggestions, bug reports, and feedback regarding features in the mod. However, there are guidelines for reports to reduce the amount of headaches that we have to endure.
+
+For ISSUES (bugs, etc):
+Explain the issue in as clear detail as possible. We need to know how and why the issue is happening.
+Attach screenshots or videos if applicable.
+If the issue involves a crash, attach crash logs if applicable.
+Make sure your issue has not already been reported by another person.
+Make sure that what you're reporting is actually an issue.
+
+For SUGGESTIONS (feature requests, etc):
+Make sure your suggestion follows Mojang's general design philosophy. We're fine if you suggest the skeleton of an idea to leave us to figure out the rest, but we will not be accepting suggestions like, for instance, guns.
+Don't ask for version ports. We know people want a Forge port. We are working on a solution to that. Also, just... don't ask for us to port the mod to previous versions of Minecraft. The mod relies almost exclusively on 1.19 features, so you need to use 1.19.
+Make sure your suggestion isn't a duplicate of another suggestion.
+Use mockups if you need to! This could be as simple as a crude drawing of your suggestion, as long as it explains your idea concisely enough.
+For FEEDBACK (textures, sounds, implementation, etc):
+Be constructive. We will NOT be taking feedback if it is phrased in a destructive manner.
+Consider why and how something has been implemented the way it is before posting. Chances are that the reasoning is given through context clues.
+Do not harass Mojang when giving feedback. We have zero tolerance for any form of harassment or belittlement of Mojang with regard to their communication and/or decisions. Wilder Wild has never been about belittling the work of Mojang, it is simply the culmination of all of the things that we would have liked to see in the Wild Update.
+
+For ALL Reports:
+Do not harass us if our response to your report is not the one you were looking for.
+Be concise. If you simply must make a lengthy explanation for your report, please format it so that it is legible. It saves us so much time being able to read what people are trying to say.
+Consider whether or not your report is worth posting.
